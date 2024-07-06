@@ -31,7 +31,6 @@ public class Query {
 ## Prerequisites
 
 - Java 17
-- Spring Boot
 - Maven
 
 ## Setup
