@@ -2,7 +2,7 @@
 
 ## Description
 
-SQL Parser is a Java 17 Spring Boot project designed to parse SQL queries into Java Query objects. This project includes a sample SQL query in the `Main.java` class to demonstrate the functionality of the parser.
+SQL Parser is a Java 17 project designed to parse SQL SELECT queries into Java Query objects. This project includes a sample SQL query in the `Main.java` class to demonstrate the functionality of the parser.
 
 ## Features
 
